@@ -1,4 +1,4 @@
-# blog-2024
+# blog
 making original private blog.
 
 ブログを自分で作ってみる
